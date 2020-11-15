@@ -1,0 +1,32 @@
+h1{
+    font-size: 50px;
+}
+body{
+    font-family: 'Noto Sans JP', sans-serif;
+}
+.rayhan{
+    color: lightcoral;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half-width img{
+    width: 100%;
+   
+}
+.top-banner{
+    background-image: url("images/E top banar-bg.png");
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+    
+}
+section{
+    height: 600px;
+    
+    border: 1px solid red;
+}
